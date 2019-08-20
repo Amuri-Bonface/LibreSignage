@@ -18,7 +18,7 @@
 		<main class="container-fluid">
 			<div class="row container-fluid mx-auto">
 				<div class="col-md-12 header-col">
-					<h1>Welcome to LibreSignage!</h1>
+					<h1>Welcome to JesmoSynage!</h1>
 				</div>
 			</div>
 			<div class="row ctrl-panel-row container-fluid">

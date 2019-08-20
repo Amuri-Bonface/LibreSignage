@@ -5,11 +5,11 @@
 <footer class="container-fluid footer d-flex align-items-center">
 	<div class="container-fluid">
 		<span>
-			LibreSignage <?php echo LS_VER; ?> &bull;
-			Copyright <?php echo '2018-'.date('Y'); ?> Eero Talus and contributors.
+		Signage <?php echo LS_VER; ?> &bull;
+			Copyright <?php echo '2019-'.date('Y'); ?> 
 			</br>
-			<a href="<?php echo README_PAGE; ?>">LibreSignage</a>
-			is free and open source software.
+			<a href="<?php echo README_PAGE1; ?>">JesmoSignage</a>
+			.
 		</span>
 	</div>
 </footer>

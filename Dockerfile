@@ -25,8 +25,8 @@ ARG docroot=""
 
 LABEL description="An open source digital signage solution."
 LABEL version="$version"
-LABEL maintainer="Eero Talus"
-LABEL copyright="Copyright 2018 Eero Talus"
+LABEL maintainer=" "
+LABEL copyright="Copyright "
 LABEL license="BSD 3-clause license"
 
 USER root

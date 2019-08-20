@@ -9,4 +9,4 @@ If you have contributed to LibreSignage and would like to have your name added
 to this list, please contact the project author and tell your full name and email
 address in the form 'Full Name <email@address.com>'.
 
-* Eero Talus <etal@mbnet.fi> **[Original author]**
+* contributor <etal@mbnet.fi> **[Original author]**

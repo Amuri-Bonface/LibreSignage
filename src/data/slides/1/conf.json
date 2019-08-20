@@ -5,7 +5,7 @@
 	"name":"Welcome",
 	"index":0,
 	"duration":3000,
-	"markup":"[container top=35% right=0% bottom=0% left=0%]\n    [xcenter]\n        [h size=12%]Welcome to LibreSignage![\/h]\n    [\/xcenter]\n[\/container]",
+	"markup":"[container top=35% right=0% bottom=0% left=0%]\n    [xcenter]\n        [h size=12%]Welcome to JesmoSignage![\/h]\n    [\/xcenter]\n[\/container]",
 	"owner":"admin",
 	"enabled":true,
 	"sched":false,
